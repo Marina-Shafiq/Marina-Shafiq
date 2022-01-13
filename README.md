@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marina-Shafiq
 - 👀 I’m interested in Frondend Developmenet
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently Working with Reactjs and learning Vue.js
 
 <!---
 Marina-Shafiq/Marina-Shafiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
